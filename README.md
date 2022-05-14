@@ -1,8 +1,4 @@
-# ~ [√] THIS COMMANDS IS WITHOUT LOGIN FOR PAKISTAN AND BANGLADESH COUNTRY 
-
-
-
-![Screenshot_20210708_093952](https://user-images.githubusercontent.com/72184388/124863711-0762b380-dfd1-11eb-8cb8-8158f742aa67.jpg)
+# ~ [√] THIS COMMANDS IS USED TO FILE CLONING ONLY
 
 
 
@@ -23,11 +19,11 @@ pkg update
 
 *pkg install git 
 
-*rm -rf W-PAK
+*rm -rf FREE
 
-*git clone https://github.com/MohsinTheLegend/W-PAK
+*git clone https://github.com/MohsinTheLegend/FREE
 
-*cd W-PAK
+*cd FREE
 
 *pip2 install mechanize
 
@@ -39,7 +35,7 @@ pkg update
 
 *pip2 install requests bs4
 
-*python2 MOHSIN.xo
+*python MOHSIN.py
 ```
 
 # Tool User And Pass
